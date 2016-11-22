@@ -7,4 +7,4 @@
   
 ===
 
-####🌐 Multibrowser support 🌐 
+####🌐 Multi browser and devices support 🌐 
